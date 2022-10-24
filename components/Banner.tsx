@@ -1,8 +1,6 @@
 import Image from "next/image";
 import { useEffect, useState } from "react";
 import { Movie } from "../typing";
-import { modalState, movieState } from "../atoms/modalAtom.";
-import { useRecoilState } from "recoil";
 import { baseUrl } from "../constants/movie";
 import { FaPlay } from "react-icons/fa";
 
