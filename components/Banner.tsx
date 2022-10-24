@@ -1,13 +1,11 @@
-import Image from "next/image"
+import Image from "next/image";
 
 function Banner() {
-    return (
-        <div>
-            <div>
-                <Image/>
-            </div>
-        </div>
-    )
+  return (
+    <div>
+      <div></div>
+    </div>
+  );
 }
 
-export default Banner
+export default Banner;
