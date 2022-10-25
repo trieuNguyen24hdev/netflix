@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { useEffect, useState } from "react";
-import { Movie } from "../typing";
+import { Movie } from "../typings";
 import { baseUrl } from "../constants/movie";
 import { FaPlay } from "react-icons/fa";
 
